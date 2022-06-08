@@ -2,4 +2,10 @@
 
 Repository for WRS firmware releases used in GSI.
 
-The latest release in usage is labeled as 'latest' in Releases.
+## Usage
+
+Download the latest release into the local repository directory:
+
+```
+$ ./scripts/get_latest_release.sh
+```
